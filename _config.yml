@@ -10,7 +10,7 @@ source:           ./
 destination:      ./
 host:             0.0.0.0
 port:             9001
-baseurl:          h1.github.io
+baseurl:          /h1.github.io
 url:              http://tongxunlu.github.com/h1.github.io
 encoding:         UTF-8
 
